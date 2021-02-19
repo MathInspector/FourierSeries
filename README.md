@@ -31,7 +31,7 @@ h(x) = sin(nx) + (1/2)sin(2x) + (1/3)sin(3x) + ...
 
 Each function can be viewed as a point in an infinite dimensional vector space which is called "Hilbert Space", and we can do geometry in this space.  Just like an arbitrary irrational number has a non-repeating decimal expansion in terms of the symbols 0, 1, ..., 9; functions also have their own "decimal expansion".  The complex number in the n-th decimal place of an arbitrary function `f(x)` is it's n-th fourier coefficient.  Instead of 0-9 we are using the continously infinite set of all complex numbers for each decimal place.
 
-There is a kind of algorithmic beauty to the way the proof works on a technical level.  `h(x)` along with it's super simple fourier expansion is plays a fundamental role.  Its sort of like a really well written computer program, where all the parts of the code work together very cleanly but in the way only a really brilliant programmer could think of.
+There is a kind of algorithmic beauty to the way the proof works on a technical level.  `h(x)` along with it's super simple fourier expansion plays a fundamental role.  Its sort of like a really well written computer program, where all the parts of the code work together very cleanly but in the way only a really brilliant programmer could think of.
 
 ## The Weierstass approximation
 `weierstrass.py`
