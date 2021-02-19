@@ -1,7 +1,9 @@
 # THE FUNDAMENTAL THEOREM OF FOURIER SERIES
 *Supplment and Problems*
 
-Using computation tools and seeing lots of examples is a very important part of groking fourier series.  This repository contains the source code used to create the youtube video "The Fundamental Theorem of Fourier Series", and requires math inspector version 0.9.2+, you can download the latest version from the website https://mathinspector.com, or by running the command
+Watch the video! https://youtu.be/7BJgmC0T5xQ
+
+Using computation tools and seeing lots of examples is a very important part of groking fourier series.  This repository contains the source code used to create the youtube video "The Fundamental Theorem of Fourier Series"(https://www.youtube.com/watch?v=7BJgmC0T5xQ), and requires math inspector version 0.9.2+, you can download the latest version from the website https://mathinspector.com, or by running the command
 
 ```
 $ pip install mathinspector
